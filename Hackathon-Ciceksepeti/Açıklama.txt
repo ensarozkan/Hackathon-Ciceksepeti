@@ -1,0 +1,79 @@
+Merhaba,
+
+ 
+
+ÇiçekSepeti Hackathon’a baþvurun için teþekkür ederiz.
+ Bu öðrenme deneyimi için en az senin kadar heyecanlýyýz. 
+Seçim sürecimizde bir sonraki aþama olan teknik testimizi seninle (ve varsa ekibinle) paylaþmak üzere bu mesajý iletiyoruz.
+
+ 
+
+Unutma, teknik çözümünü bize iletmek için tam 1 haftan var!
+
+
+
+Önemli Notlar:
+
+
+
+·         Takým olarak baþvuranlar için: Her takýmýn 1 proje teslim etmesi gerekli ve yeterlidir.  (Her takýmýn sözcüsüne bu e-posta gönderilmiþtir)
+
+·         Projeleri bu maili aldýktan sonra en geç 1 hafta içinde e-mail ile bize göndermen gerekiyor.
+
+·         Bitbucket üzerinden veya Zip formatýnda Google Drive linkiyle projeni paylaþabilirsin.
+
+·         Çözüm için kullanabileceðin diller: GoLang, C#, Java, Swift, Kotlin
+
+·         Bu mesajý almasýna raðmen çözüm üretmeyen birey ve takýmlar bir sonraki aþamada otomatik olarak elenecek ve Hackathon’a katýlamayacaktýr.
+
+
+
+Mevcut Data:
+
+
+
+·         Kýrmýzý, Yeþil ve Mavi olmak üzere 3 adet çiçek bayisi ve ilgili adreslere teslim edilmesi gereken 100 adet çiçek sipariþi bulunuyor.
+
+·         Ekteki “Sipariþ ve Bayi Koordinatlarý” adlý Excel dosyasýnda ilgili bayi ve teslim noktalarýnýn koordinatlarýný görebilirsin.
+
+
+
+Kurallar:
+
+
+
+Çözümünü geliþtirirken aþaðýdaki bayi kotalarýný baz almalýsýn:
+
+
+
+·         Kýrmýzý Bayi: 20-30 arasý sipariþ daðýtmalýdýr.
+
+·         Yeþil Bayi: 35-50 arasý sipariþ daðýtmalýdýr.
+
+·         Mavi Bayi: 20-80 arasý sipariþ daðýtmalýdýr.
+
+
+
+Beklenen Çözüm:
+
+
+
+·         Yukarýda ve ek dosyada verilen bilgiler ýþýðýnda, sipariþleri bayilerin kotalarý* bazýnda optimum þekilde daðýtmak için teknik bir çözüm/ürün
+ geliþtirmeni bekliyoruz.
+
+·         Çiçek bayilerinin kat edeceði toplam kuþ uçuþu mesafenin olabildiðince kýsa olmasý gerekiyor.
+
+·         Her çiçek bayisine atanan çiçek paketinin harita üzerinde ilgili bayi rengiyle iþaretlenmiþ olmasý gerekiyor.
+
+ 
+
+*Kota: Bir bayinin daðýtabileceði maksimum sipariþ sayýsýdýr. (Örneðin Kýrmýzý Bayi’nin kotasý 30’dur)
+
+
+
+
+Bol þans!
+
+ÇiçekSepeti Hackathon Ekibi
+
+
